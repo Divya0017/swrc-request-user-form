@@ -1,0 +1,11 @@
+{
+    "name": "fullstack-dev",
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "concurrently \"npm run dev --prefix C:/Users/kolli/swrc-executor-page/request-hub-api\" \"npm run dev --prefix C:/Users/kolli/swrc-request-user-form\""
+    },
+    "devDependencies": {
+      "concurrently": "^8.0.1"
+    }
+  }
+  
